@@ -1,2 +1,2 @@
 # Capstone
-Code for MP3 Player
+Includes the code, schematic, and bill of materials for MP3 Player project 
